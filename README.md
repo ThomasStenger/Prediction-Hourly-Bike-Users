@@ -16,7 +16,7 @@ The main parts are:
 1) Exploratory Data Analysis - plotting, correlations, redundant & relevant variables, insights;
 2) Data Engineering - text and date features, generating extra features, advanced insights, missing values & outliers handling, pipelines & transformations
 3) Machine Learning:
-    3.1) Baseline linear regression models before & after data engineering with LinReg, Ridge, Lasso, Elastic Net;
-    3.2) Baseline Random Forest;
-    3.3) Parameter Tuning using gridsearch and adjusting Random Forest Regressor with best parameters
-    3.4) Plotting predictions vs. reality with additional insights.
+3.1) Baseline linear regression models before & after data engineering with LinReg, Ridge, Lasso, Elastic Net;
+3.2) Baseline Random Forest;
+3.3) Parameter Tuning using gridsearch and adjusting Random Forest Regressor with best parameters
+3.4) Plotting predictions vs. reality with additional insights.
